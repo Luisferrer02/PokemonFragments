@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Pokemon</string>
+    <string-array name="perfiles">
+        <item>Administrador</item>
+        <item>Usuario</item>
+        <item>Invitado</item>
+    </string-array>
+    <string name="pokemon_id">ID: %d</string>
+    <string name="pokemon_height">Height: %d</string>
+    <string name="pokemon_weight">Weight: %d</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

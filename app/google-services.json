@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "286807873516",
+    "firebase_url": "https://luis-4c9db-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "luis-4c9db",
+    "storage_bucket": "luis-4c9db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286807873516:android:da42b3de2c5d625f8112c9",
+        "android_client_info": {
+          "package_name": "com.example.aplicacionauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiOzjIwPx3pRP-Xm5576N-317TJfwLsHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286807873516:android:4eba2adbc6138dd48112c9",
+        "android_client_info": {
+          "package_name": "com.example.comunicacion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiOzjIwPx3pRP-Xm5576N-317TJfwLsHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286807873516:android:cd2ae87e1e5b7a1b8112c9",
+        "android_client_info": {
+          "package_name": "com.example.pokemonfragments"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiOzjIwPx3pRP-Xm5576N-317TJfwLsHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
